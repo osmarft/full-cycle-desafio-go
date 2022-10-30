@@ -1,0 +1,7 @@
+version: "3"
+
+services:
+  desafio:
+    build: .
+    image: osmarft/desafio-go:latest
+    container_name: desafio-docker
