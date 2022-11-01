@@ -4,4 +4,5 @@
 
 # Repository:
 
-- docker pull osmarft/desafio-go
+- Link: https://hub.docker.com/r/osmarft/desafio-go
+- cmd: docker pull osmarft/desafio-go
